@@ -9,7 +9,9 @@ frpc一键搭建服务端和客户端脚本
 
 #### 安装教程
 
-测试
+```shell
+wget https://gitee.com/liushuheng-666/frp/releases/download/0.44.0/frp.sh && chmod +x frp.sh bash &&frp.sh
+```
 
 #### 使用说明
 客户端启动指令 systemctl start gujiu.service
