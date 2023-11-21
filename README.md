@@ -24,13 +24,10 @@ curl -s -O https://gitee.com/liushuheng-666/frp/releases/download/0.44.0/frp.sh 
 客户端重启指令 systemctl restart gujiu.service<br>
 
 服务端启动指令 systemctl start frps.service<br>
-客户端停止指令 systemctl stop frps.service<br>
-客户端重启指令 systemctl restart frps.service<br>
+服务端停止指令 systemctl stop frps.service<br>
+服务端重启指令 systemctl restart frps.service<br>
 
 
 #### 参与贡献
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+无
