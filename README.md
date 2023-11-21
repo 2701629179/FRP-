@@ -14,7 +14,7 @@ wget https://gitee.com/liushuheng-666/frp/releases/download/0.44.0/frp.sh && chm
 ```
 方法二
 ```shell
-curl https://gitee.com/liushuheng-666/frp/releases/download/0.44.0/frp.sh && chmod +x frp.sh && ./frp.sh
+curl -s -O https://gitee.com/liushuheng-666/frp/releases/download/0.44.0/frp.sh && chmod +x frp.sh && ./frp.sh
 ```
 如果都不行请手动下载frp.sh文件并上传到服务器然后赋予可执行权限chmod +x frp.sh 然后请输入./frp.sh执行
 
